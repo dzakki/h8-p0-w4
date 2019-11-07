@@ -60,3 +60,23 @@ task week 4 from hactiv8
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-toko-x.md)
 //
 [Answer](https://github.com/dzakki/h8-p0-w4/blob/master/excercise-12.js)
+
+## Task 13 | Deep Sum ✔
+[Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-deep-sum.md)
+//
+[Answer](https://github.com/dzakki/h8-p0-w4/blob/master/excercise-13.js)    
+
+## Task 14 | Naik Angkot ✔
+[Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-naik-angkot.md)
+//
+[Answer](https://github.com/dzakki/h8-p0-w4/blob/master/excercise-14.js)    
+
+## Task 15 | Highest Score ✔
+[Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-highest-score.md)
+//
+[Answer](https://github.com/dzakki/h8-p0-w4/blob/master/excercise-15.js)    
+
+## Task 16 | Graduates ✔
+[Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-graduates.md)
+//
+[Answer](https://github.com/dzakki/h8-p0-w4/blob/master/excercise-16.js)    
